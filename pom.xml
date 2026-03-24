@@ -19,7 +19,7 @@
     <description>Nivel 2 - Spring AI + Groq - Desarrollo Web Avanzado</description>
 
     <properties>
-        <java.version>24</java.version>
+        <java.version>17</java.version>
         <spring-ai.version>1.0.0</spring-ai.version>
     </properties>
 
